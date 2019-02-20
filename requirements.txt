@@ -1,1 +1,1 @@
-scitools-iris==1.8 
+scitools-iris 
