@@ -1,2 +1,3 @@
 numpy
 matplotlib
+ -c conda-forge iris 
