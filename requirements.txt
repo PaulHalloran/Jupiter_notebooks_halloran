@@ -1,1 +1,2 @@
-scitools-iris 
+numpy
+matplotlib
