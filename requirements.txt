@@ -1,1 +1,1 @@
-numpy as np
+numpy
