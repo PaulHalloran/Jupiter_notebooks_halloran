@@ -1,5 +1,0 @@
-name: myenv
-channels:
-  - default
-dependencies:
-  - graphviz
