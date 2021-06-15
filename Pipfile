@@ -8,6 +8,9 @@ pytest = "*"
 
 [packages]
 PyCO2SYS = "*"
+graphviz = "*"
+nump = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
