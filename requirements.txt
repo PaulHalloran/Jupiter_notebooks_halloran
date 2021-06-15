@@ -1,1 +1,6 @@
-pipenv
+PyCO2SYS
+numpy
+pandas
+numpy
+graphviz
+
