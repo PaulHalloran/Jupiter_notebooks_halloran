@@ -1,11 +1,6 @@
 name: myenv
 channels:
-  - conda-forge
-  - scitools
-
+  - defaults
 dependencies:
-  # Core scientific python libraries
   - numpy
-  - matplotlib
-  - python=2.7
-  - iris
+
