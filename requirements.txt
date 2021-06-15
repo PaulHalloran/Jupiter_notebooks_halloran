@@ -1,5 +1,5 @@
 PyCO2SYS==1.7.0.1
 numpy
-pandas==1.2.4
+pandas
 graphviz==0.16
 
