@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - numpy
+  - pandas
+  - graphviz
+  - xarray
 
